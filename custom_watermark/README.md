@@ -1,4 +1,4 @@
-# gWatermark
+# Custom_Watermark
 
 Pour modifier l'apparence du watermark, regardez les lignes 31 à 42.
 
